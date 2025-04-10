@@ -24,4 +24,6 @@ This project calculate Total Expenses and saving of A Month.
 ###  Monthly Sales Dashboard ###
 This project conten Sales Dashboard of company.
 [Download Excel File] https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/refs/heads/main/khushi%20linkedin%20post%201.xlsx
-
+### Expanse Tracker and Budget Tracker ###
+This project conten Expanse Tracker and Budget Tracker.
+[Download Excel File] https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/refs/heads/main/khushi%20linkedin%20post%203.xlsx
