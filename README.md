@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ## My Projects##
 ### Student Marksheet ###
 This projecvt calculate Total Marks ,Percentage And Grades.
-[Download Excel File] https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/221ba617ce211cb2aa6f530f2cdda40c0a557a4b/KHUSHI%20LINKEDIN%20POST%202%20MARKSHEET.xlsx
+[Download Excel File] 
+https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/221ba617ce211cb2aa6f530f2cdda40c0a557a4b/KHUSHI%20LINKEDIN%20POST%202%20MARKSHEET.xlsx
 ### Monthly Expenses Tracker and budget tracker ### 
 This project calculate Total Expenses and saving of A Month.
 [Download Excel File] https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/refs/heads/main/KHUSHI%20LINKEDIN%20POST%204%20TRACKER.xlsx
@@ -27,3 +28,7 @@ This project conten Sales Dashboard of company.
 ### Expanse Tracker and Budget Tracker ###
 This project conten Expanse Tracker and Budget Tracker.
 [Download Excel File] https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/refs/heads/main/khushi%20linkedin%20post%203.xlsx
+### Sales Dashboard ###
+This project conten Sales Dashboard of Dashboard.
+[Download Excel File] 
+https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/refs/heads/main/khushi%20linkedin%20post%205%20sales%20dashboard.xlsx
