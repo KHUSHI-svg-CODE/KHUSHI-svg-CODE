@@ -21,6 +21,7 @@ This projecvt calculate Total Marks ,Percentage And Grades.
 ### Monthly Expenses Tracker and budget tracker ### 
 This project calculate Total Expenses and saving of A Month.
 [Download Excel File] https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/refs/heads/main/KHUSHI%20LINKEDIN%20POST%204%20TRACKER.xlsx
-
-
+###  Monthly Sales Dashboard ###
+This project conten Sales Dashboard of company.
+[Download Excel File] https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/refs/heads/main/khushi%20linkedin%20post%201.xlsx
 
