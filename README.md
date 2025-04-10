@@ -32,3 +32,7 @@ This project conten Expanse Tracker and Budget Tracker.
 This project conten Sales Dashboard of Dashboard.
 [Download Excel File] 
 https://github.com/KHUSHI-svg-CODE/KHUSHI-svg-CODE/raw/refs/heads/main/khushi%20linkedin%20post%205%20sales%20dashboard.xlsx
+### LookUp Formulas and Index Match formulas ###
+LookUp Formulas and Index Match formula used in Products Of company and Price.
+[Download Excel File] 
+https://docs.google.com/spreadsheets/d/1QWWatHLgryf56O122kzvPig03fQxqRYuCBPOulS3qpI/edit?usp=drivesdk
